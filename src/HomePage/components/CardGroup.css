@@ -1,0 +1,11 @@
+@media ( min-width:961px){
+.cards{
+    margin: 7rem 20rem;
+}}
+
+
+@media ( max-width:960px){
+    .cards{
+        margin: 3rem 0;
+    }
+}

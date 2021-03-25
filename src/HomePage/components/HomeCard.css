@@ -1,0 +1,10 @@
+@media ( max-width:960px){
+    .cardtext{
+        font-size: 2rem;
+    }
+}
+
+    .right {
+        float: right;
+        padding:0.5rem
+      }

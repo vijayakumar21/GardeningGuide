@@ -1,0 +1,17 @@
+
+@media ( min-width:961px){
+    .humidityContainer{
+        margin-left:30rem;
+        margin-right:10rem;
+        margin-top:2rem;
+        width:35%
+    }
+}
+
+@media ( max-width:960px){
+    .humidityContainer{
+        margin-left:1.5rem;
+        margin-right:1.5rem;
+        
+    }
+}

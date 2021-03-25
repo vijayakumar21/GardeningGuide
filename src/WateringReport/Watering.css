@@ -1,0 +1,16 @@
+@media ( min-width:961px){
+    .wateringContainer{
+        margin-left:32.5%;
+        margin-right:32.5%;
+        margin-top:2rem;
+        width:35%
+    }
+}
+
+@media ( max-width:960px){
+    .wateringContainer{
+        margin-left:1.5rem;
+        margin-right:1.5rem;
+        
+    }
+}
